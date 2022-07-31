@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    margin: 50px;
+  }
+
+h2 {
+    margin: 30px;
+}  
+
+p {
+    text-align: center;
+    margin: 50px;
+}
+  
+
+.recipe_desc {
+    background-color: rgba(46, 120, 194, 0.925);
+    color: white;
+    padding: 0px;
+    border-radius: 25px;
+    margin: auto;
+    max-width: 512px;
+    max-height: auto;
+    height: auto;
+    overflow:hidden;
+    font-size: larger;
+} 
+
+li{
+    text-align: justify;
+    padding: 20px;
+}
